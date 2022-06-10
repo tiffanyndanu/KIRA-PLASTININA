@@ -6,9 +6,21 @@ Kira Plastinina is a Russian brand that is sold through a defunct chain of retai
 
 ## Experimental design
 -Problem Definition
+
 -Data Sourcing
+
 -Check the Data
+
 -Perform Data Cleaning
+
+
 -Perform Exploratory Data Analysis (Univariate, Bivariate & Multivariate)
+
 -Implement the Solution
+
 -Challenge the Solution
+
+## Technologies Used
+
+-R
+-R Studio
